@@ -1,5 +1,4 @@
 import smtplib
-
 my_email = "From Email Address"
 password = "Email Password"
 connection = smtplib.SMTP("smtp.gmail.com") #Depends upon you mail id
